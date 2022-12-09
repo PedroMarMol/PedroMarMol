@@ -1,6 +1,6 @@
 - 👋 Hey, I'm Pedro Martos.
-- 👀 I’m interested in any ambitious project in order to learn as much as possible.
-- 🌱 I’m currently learning Javascript and React
+- 👀 Looking for a Intern/Trainee or Junior position.
+- 🌱 I’m currently learning React.js 🔭
 - 📫 How to reach me -> ig: @pedrommartos
 
 <!---
