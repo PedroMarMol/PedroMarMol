@@ -1,6 +1,6 @@
 - 👋 Hey, I'm Pedro Martos.
-- 👀 Looking for a Intern/Trainee or Junior position.
-- 🌱 I’m currently learning React.js 🔭.
+- 👀 Looking for a Junior position as front-end developer.
+- 🌱 I am focusing in React.js 🔭.
 - 📫 How to reach me -> LinkedIn: PedroMMartos.
 
 <!---
